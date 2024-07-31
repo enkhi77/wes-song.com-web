@@ -1,0 +1,20 @@
+{
+  "name": "wes-song.com-web",
+  "version": "1.0.0",
+  "description": "Gateway for Personal Website",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo \"BUILDING!!!!\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enkhi77/wes-song.com-web.git"
+  },
+  "author": "Wesley Song",
+  "license": "GPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/enkhi77/wes-song.com-web/issues"
+  },
+  "homepage": "https://github.com/enkhi77/wes-song.com-web#readme"
+}
