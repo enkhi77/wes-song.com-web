@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/enkhi77/wes-song.com-web.git"
+    "url": "git@github.com:enkhi77/wes-song.com-web.git"
   },
   "author": "Wesley Song",
   "license": "GPL-3.0-only",
